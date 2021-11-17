@@ -5,7 +5,7 @@ We use HLMs to measure urban/rural differences in stress expressions in China af
 
 The description of the data and model is part of our paper published at AAAI ICWSM 2022. 
 
-Preprint: (TBD)
+Preprint: https://arxiv.org/pdf/2110.15726.pdf
 
 ## Directory Structure
 * `Supplementary_Materials.pdf`: This file contains the supplementary materials for our paper.
@@ -25,7 +25,7 @@ Run the bash script as follows to run HLM:
 ```
     @article{cui2022icwsm,
         title={Understanding Urban-Rural Differences in Stress in China Using Hierarchical Linear Modeling},
-        author={Cui, Jesse and Zhang, Tingdan and Pang, Dandan and Jaidka, Kokil and Sherman, Garrick and Jakhetiya, Vinit and Ungar, Lyle, and Guntuku, Sharath Chandra},
+        author={Cui, Jesse and Zhang, Tingdan and Jaidka, Kokil and Pang, Dandan and Sherman, Garrick and Jakhetiya, Vinit and Ungar, Lyle, and Guntuku, Sharath Chandra},
         journal={Proceedings of the International AAAI Conference on Web and Social Media}, 
         year={2022}
     }
@@ -33,5 +33,5 @@ Run the bash script as follows to run HLM:
 
 ```
 APA
-Cui, J., Zhang, T., Pang, D., Jaidka, D., Sherman, G., Jakhetiya, V., Ungar, L., & Guntuku, S. C. (2022). Understanding Urban-Rural Differences in Stress in China Using Hierarchical Linear Modeling. Proceedings of the International AAAI Conference on Web and Social Media (ICWSM)
+Cui, J., Zhang, T., Jaidka, D., Pang, D., Sherman, G., Jakhetiya, V., Ungar, L., & Guntuku, S. C. (2022). Understanding Urban-Rural Differences in Stress in China Using Hierarchical Linear Modeling. Proceedings of the International AAAI Conference on Web and Social Media (ICWSM)
 ```
